@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi I'm Dominik  Šimoník 🔥
 
-<!--
-**ryzizub/ryzizub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a freelance mobile developer and Firebase GDE. I am passionate about new technologies 💪
 
-Here are some ideas to get you started:
+ ## ⚡️Tech stack
+- Flutter 📱
+- Angular - Ionic 📱
+- Android Java and Kotlin 📱
+- Firebase 🔥
+- Google Cloud ☁️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝Get in touch 
+- [LinkedIn](https://www.linkedin.com/in/dominik-%C5%A1imon%C3%ADk-11a14014b/)
+- [Twitter](https://twitter.com/ryzizub)
