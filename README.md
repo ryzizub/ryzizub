@@ -22,7 +22,7 @@ I am a freelance Flutter/Dart developer and Firebase GDE
 - [Email](mailto:dominik@simonik.me)
 - [Mastodon](https://mastodon.ryzizub.com/@ryzizub)
 - [Bluesky](https://bsky.app/profile/ryzizub.com)
-
+- [Threads](https://www.threads.net/@ryzizub)
 
 [![Ryzizub's Github Stats](https://github-readme-stats.vercel.app/api?username=ryzizub&count_private=true&theme=transparent&show_icons=true&line_height=24)](https://github.com/ryzizub)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryzizub&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3)](https://github.com/ryzizub/github-readme-stats)
