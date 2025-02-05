@@ -1,6 +1,6 @@
 # Hi I'm Dominik Šimoník aka ryzizub 👋 
 
-I am Flutter/Dart developer and Firebase GDE
+Flutter/Dart developer and Firebase GDE
 
 ## Current Tech stack
 - Flutter 📱
