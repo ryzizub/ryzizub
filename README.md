@@ -1,28 +1,37 @@
-# Hi I'm Dominik Šimoník aka ryzizub 👋 
+# 👋 Hi, I'm Dominik Šimoník (aka **ryzizub**)
 
-Flutter/Dart developer and Firebase & Flutter GDE
+I'm a **Senior Engineer at [Very Good Ventures](https://verygood.ventures/)** and a **Google Developer Expert (GDE) for Firebase & Flutter**.
 
-## Current Tech stack
-- Flutter 📱
-- Dart 🐦
-- Google Cloud (mostly Firebase things) ☁️
+### 🛠️ What I Do
+I specialize in building beautiful apps using:
 
-## Past Tech stack
-- Angular
-- Typescript
-- Javascript
-- React Native
-- Android Native (Java and Kotlin)
-- PHP
+- 🐦 [Flutter](https://flutter.dev/) & [Dart](https://dart.dev/)
+- ☁️ [Google Cloud](https://cloud.google.com/)
 
-## 🤝Get in touch 
-- [LinkedIn](https://www.linkedin.com/in/dominik-simonik/)
-- [Nostr](https://nostr.band/npub1eqmj85el4pkg7qdj2jcae24qykev5evnyz2s6pzdytzpkhga4u5sdmhexk)
-- [Website](https://ryzizub.com)
-- [Email](mailto:dominik@simonik.me)
-- [Mastodon](https://mastodon.ryzizub.com/@ryzizub)
-- [Bluesky](https://bsky.app/profile/ryzizub.com)
-- [Threads](https://www.threads.net/@ryzizub)
+In the past, I've also worked with:
 
-[![Ryzizub's Github Stats](https://github-readme-stats.vercel.app/api?username=ryzizub&count_private=true&theme=transparent&show_icons=true&line_height=24)](https://github.com/ryzizub)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryzizub&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3)](https://github.com/ryzizub/github-readme-stats)
+- 🅰️ Angular / TypeScript / JavaScript
+- ⚛️ React Native
+- 🤖 Android Native (Java & Kotlin)
+- 🐘 PHP
+
+### 📫 Get in Touch
+
+You can find me all over the internet:
+
+- 🌐 [Website](https://ryzizub.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dominik-simonik/)
+- 🐘 [Mastodon](https://mastodon.ryzizub.com/@ryzizub)
+- 🌌 [Bluesky](https://bsky.app/profile/ryzizub.com)
+- 🧵 [Threads](https://www.threads.net/@ryzizub)
+- 🧭 [Nostr](https://nostr.band/npub1eqmj85el4pkg7qdj2jcae24qykev5evnyz2s6pzdytzpkhga4u5sdmhexk)
+- 📧 [Email](mailto:dominik@simonik.me)
+- 📅 [Book a chat](https://calendar.notion.so/meet/ryzizub/hello)
+
+---
+
+### 📊 GitHub Stats
+
+[![Ryzizub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryzizub&count_private=true&theme=transparent&show_icons=true&line_height=24)](https://github.com/ryzizub)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryzizub&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3)](https://github.com/ryzizub/github-readme-stats)
