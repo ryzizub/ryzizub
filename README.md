@@ -21,7 +21,6 @@ You can find me all over the internet:
 
 - 🌐 [Website](https://ryzizub.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/dominik-simonik/)
-- 🌌 [Bluesky](https://bsky.app/profile/ryzizub.com)
 - 🧵 [Threads](https://www.threads.net/@ryzizub)
 - 🧭 [Nostr](https://nostr.band/npub1eqmj85el4pkg7qdj2jcae24qykev5evnyz2s6pzdytzpkhga4u5sdmhexk)
 - 📧 [Email](mailto:dominik@simonik.me)
