@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dominik Šimoník (aka **ryzizub**)
 
-I'm a **Senior Engineer at [Very Good Ventures](https://verygood.ventures/)** and a **Google Developer Expert (GDE) for Firebase & Flutter**.
+I'm a **Technical Delivery Lead at [Very Good Ventures](https://verygood.ventures/)** and a **Google Developer Expert (GDE) for Firebase & Flutter**.
 
 ### 🛠️ What I Do
 I specialize in building beautiful apps using:
