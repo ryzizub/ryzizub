@@ -23,4 +23,3 @@ You can find me all over the internet:
 - 💼 [LinkedIn](https://www.linkedin.com/in/dominik-simonik/)
 - 🧭 [Nostr](https://nostr.band/npub1eqmj85el4pkg7qdj2jcae24qykev5evnyz2s6pzdytzpkhga4u5sdmhexk)
 - 📧 [Email](mailto:dominik@simonik.me)
-- 📅 [Book a chat](https://calendar.notion.so/meet/ryzizub/hello)
