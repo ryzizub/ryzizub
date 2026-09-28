@@ -1,25 +1,56 @@
-# 👋 Hi, I'm Dominik Šimoník (aka **ryzizub**)
+<div align="center">
 
-I'm a **Technical Delivery Lead at [Very Good Ventures](https://verygood.ventures/)** and a **Google Developer Expert (GDE) for Firebase & Flutter**.
+# Dominik Šimoník
 
-### 🛠️ What I Do
-I specialize in building beautiful apps using:
+**Flutter Developer** · Prague · he/him
 
-- 🐦 [Flutter](https://flutter.dev/) & [Dart](https://dart.dev/)
-- ☁️ [Google Cloud](https://cloud.google.com/)
+[![ryzizub.com][website-badge]][website]
+[![X][x-badge]][x]
+[![Instagram][instagram-badge]][instagram]
+[![LinkedIn][linkedin-badge]][linkedin]
+[![Nostr][nostr-badge]][nostr]
+[![Email][email-badge]][email]
 
-In the past, I've also worked with:
+</div>
 
-- 🅰️ Angular / TypeScript / JavaScript
-- ⚛️ React Native
-- 🤖 Android Native (Java & Kotlin)
-- 🐘 PHP
+## About
 
-### 📫 Get in Touch
+With over eight years in mobile app development, I've worked with both startups and established companies, delivering high-quality, seamless user experiences.
 
-You can find me all over the internet:
+- **Technical Delivery Lead at [Very Good Ventures](https://verygood.ventures/)**, one of the most established companies in the Flutter ecosystem, building apps for clients like Google, Hamilton and Toyota
+- **Google Developer Expert** for Firebase & Flutter
+- **Google Developer Group organizer**, sharing knowledge through mentoring, talks and workshops
+- Previously **CTO at Openvibe** and **senior lecturer at Czechitas**
+- Beyond code: craft beer (do I have my own beer fridge? Yes.), gaming and all things geeky
 
-- 🌐 [Website](https://ryzizub.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/dominik-simonik/)
-- 🧭 [Nostr](https://nostr.band/npub1eqmj85el4pkg7qdj2jcae24qykev5evnyz2s6pzdytzpkhga4u5sdmhexk)
-- 📧 [Email](mailto:dominik@simonik.me)
+## Stack
+
+[![Flutter][flutter-badge]][flutter]
+[![Dart][dart-badge]][dart]
+[![Firebase][firebase-badge]][firebase]
+[![Google Cloud][gcloud-badge]][gcloud]
+
+Earlier I also worked with Angular, TypeScript, JavaScript, React Native, native Android (Java & Kotlin) and PHP.
+
+[website]: https://ryzizub.com
+[x]: https://x.com/ryzizub
+[instagram]: https://www.instagram.com/ryzizub/
+[linkedin]: https://www.linkedin.com/in/dominik-simonik/
+[nostr]: https://primal.net/p/npub1eqmj85el4pkg7qdj2jcae24qykev5evnyz2s6pzdytzpkhga4u5sdmhexk
+[email]: mailto:dominik@simonik.me
+[flutter]: https://flutter.dev/
+[dart]: https://dart.dev/
+[firebase]: https://firebase.google.com/
+[gcloud]: https://cloud.google.com/
+
+<!-- Badges: black shields.io badges; contact icons are the Remix icons used on ryzizub.com -->
+[website-badge]: https://img.shields.io/badge/ryzizub.com-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDIyQzYuNDc3IDIyIDIgMTcuNTIzIDIgMTJTNi40NzcgMiAxMiAyczEwIDQuNDc3IDEwIDEwcy00LjQ3NyAxMC0xMCAxMG0tMi4yOS0yLjMzM0ExNy45IDE3LjkgMCAwIDEgOC4wMjcgMTNINC4wNjJhOC4wMSA4LjAxIDAgMCAwIDUuNjQ4IDYuNjY3TTEwLjAzIDEzYy4xNTEgMi40MzkuODQ4IDQuNzMgMS45NyA2Ljc1MkExNS45IDE1LjkgMCAwIDAgMTMuOTcgMTN6bTkuOTA4IDBoLTMuOTY1YTE3LjkgMTcuOSAwIDAgMS0xLjY4MyA2LjY2N0E4LjAxIDguMDEgMCAwIDAgMTkuOTM4IDEzTTQuMDYyIDExaDMuOTY1QTE3LjkgMTcuOSAwIDAgMSA5LjcxIDQuMzMzQTguMDEgOC4wMSAwIDAgMCA0LjA2MiAxMW01Ljk2OSAwaDMuOTM4QTE1LjkgMTUuOSAwIDAgMCAxMiA0LjI0OEExNS45IDE1LjkgMCAwIDAgMTAuMDMgMTFtNC4yNTktNi42NjdBMTcuOSAxNy45IDAgMCAxIDE1Ljk3MyAxMWgzLjk2NWE4LjAxIDguMDEgMCAwIDAtNS42NDgtNi42NjciLz48L3N2Zz4%3D&logoColor=white
+[x-badge]: https://img.shields.io/badge/X-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0ibTE3LjY4NyAzLjA2M2wtNC45OTYgNS43MTFsLTQuMzItNS43MTFIMi4xMTJsNy40NzcgOS43NzZsLTcuMDg2IDguMDk5aDMuMDM0bDUuNDY5LTYuMjVsNC43OCA2LjI1aDYuMTAybC03Ljc5NC0xMC4zMDRsNi42MjUtNy41NzF6bS0xLjA2NCAxNi4wNkw1LjY1NCA0Ljc4MmgxLjgwM2wxMC44NDYgMTQuMzR6Ii8%2BPC9zdmc%2B&logoColor=white
+[instagram-badge]: https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEzLjAyOCAyYzEuMTI1LjAwMyAxLjY5Ni4wMDkgMi4xODkuMDIzbC4xOTQuMDA3Yy4yMjQuMDA4LjQ0NS4wMTguNzEyLjAzYzEuMDY0LjA1IDEuNzkuMjE4IDIuNDI3LjQ2NWMuNjYuMjU0IDEuMjE2LjU5OCAxLjc3MiAxLjE1M2E0LjkgNC45IDAgMCAxIDEuMTUzIDEuNzcyYy4yNDcuNjM3LjQxNSAxLjM2My40NjUgMi40MjhjLjAxMi4yNjYuMDIyLjQ4Ny4wMy43MTJsLjAwNi4xOTRjLjAxNS40OTIuMDIxIDEuMDYzLjAyMyAyLjE4OGwuMDAxLjc0NnYxLjMxYTc5IDc5IDAgMCAxLS4wMjMgMi4xODhsLS4wMDYuMTk0Yy0uMDA4LjIyNS0uMDE4LjQ0Ni0uMDMuNzEyYy0uMDUgMS4wNjUtLjIyIDEuNzktLjQ2NiAyLjQyOGE0LjkgNC45IDAgMCAxLTEuMTUzIDEuNzcyYTQuOSA0LjkgMCAwIDEtMS43NzIgMS4xNTNjLS42MzcuMjQ3LTEuMzYzLjQxNS0yLjQyNy40NjVsLS43MTIuMDNsLS4xOTQuMDA2Yy0uNDkzLjAxNC0xLjA2NC4wMjEtMi4xODkuMDIzbC0uNzQ2LjAwMWgtMS4zMDlhNzggNzggMCAwIDEtMi4xODktLjAyM2wtLjE5NC0uMDA2YTYzIDYzIDAgMCAxLS43MTItLjAzMWMtMS4wNjQtLjA1LTEuNzktLjIxOC0yLjQyOC0uNDY1YTQuOSA0LjkgMCAwIDEtMS43NzEtMS4xNTNhNC45IDQuOSAwIDAgMS0xLjE1NC0xLjc3MmMtLjI0Ny0uNjM3LS40MTUtMS4zNjMtLjQ2NS0yLjQyOGwtLjAzLS43MTJsLS4wMDUtLjE5NEE3OSA3OSAwIDAgMSAyIDEzLjAyOHYtMi4wNTZhNzkgNzkgMCAwIDEgLjAyMi0yLjE4OGwuMDA3LS4xOTRjLjAwOC0uMjI1LjAxOC0uNDQ2LjAzLS43MTJjLjA1LTEuMDY1LjIxOC0xLjc5LjQ2NS0yLjQyOEE0LjkgNC45IDAgMCAxIDMuNjggMy42NzhhNC45IDQuOSAwIDAgMSAxLjc3LTEuMTUzYy42MzgtLjI0NyAxLjM2My0uNDE1IDIuNDI4LS40NjVjLjI2Ni0uMDEyLjQ4OC0uMDIyLjcxMi0uMDNsLjE5NC0uMDA2YTc5IDc5IDAgMCAxIDIuMTg4LS4wMjN6TTEyIDdhNSA1IDAgMSAwIDAgMTBhNSA1IDAgMCAwIDAtMTBtMCAyYTMgMyAwIDEgMSAuMDAxIDZhMyAzIDAgMCAxIDAtNm01LjI1LTMuNWExLjI1IDEuMjUgMCAwIDAgMCAyLjVhMS4yNSAxLjI1IDAgMCAwIDAtMi41Ii8%2BPC9zdmc%2B&logoColor=white
+[linkedin-badge]: https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE4LjMzNiAxOC4zMzloLTIuNjY1di00LjE3N2MwLS45OTYtLjAyLTIuMjc4LTEuMzktMi4yNzhjLTEuMzg5IDAtMS42MDEgMS4wODQtMS42MDEgMi4yMDV2NC4yNWgtMi42NjZWOS43NWgyLjU2djEuMTdoLjAzNWMuMzU4LS42NzQgMS4yMjgtMS4zODcgMi41MjgtMS4zODdjMi43IDAgMy4yIDEuNzc4IDMuMiA0LjA5MnY0LjcxNE03LjAwNCA4LjU3NWExLjU0NiAxLjU0NiAwIDAgMS0xLjU0OC0xLjU0OWExLjU0OCAxLjU0OCAwIDEgMSAxLjU0NyAxLjU0OW0xLjMzNiA5Ljc2NEg1LjY2N1Y5Ljc1SDguMzR6TTE5LjY3IDNINC4zM0MzLjU5NCAzIDMgMy41OCAzIDQuMjk3djE1LjQwNkMzIDIwLjQyIDMuNTk0IDIxIDQuMzI4IDIxaDE1LjMzOUMyMC40IDIxIDIxIDIwLjQyIDIxIDE5LjcwM1Y0LjI5N0MyMSAzLjU4MSAyMC40IDMgMTkuNjY2IDN6Ii8%2BPC9zdmc%2B&logoColor=white
+[nostr-badge]: https://img.shields.io/badge/Nostr-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEwIDE5Ljc0OFYxNi40YzAtMS4yODMuOTk1LTIuMjkyIDIuNDY3LTIuODY4QTguNSA4LjUgMCAwIDAgOS41IDEzYy0xLjg5IDAtMy42MzYuNjE3LTUuMDQ3IDEuNjZBOC4wMiA4LjAyIDAgMCAwIDEwIDE5Ljc0OG04Ljg4LTMuNjYyQzE4LjQ4NSAxNS41NTMgMTcuMTcgMTUgMTUuNSAxNWMtMi4wMDYgMC0zLjUuNzk3LTMuNSAxLjRWMjBhOCA4IDAgMCAwIDYuODgtMy45MTRNOS41NSAxMS41YTIuMjUgMi4yNSAwIDEgMCAwLTQuNWEyLjI1IDIuMjUgMCAwIDAgMCA0LjVtNS45NSAxYTIgMiAwIDEgMCAwLTRhMiAyIDAgMCAwIDAgNE0xMiAyMkM2LjQ3NyAyMiAyIDE3LjUyMyAyIDEyUzYuNDc3IDIgMTIgMnMxMCA0LjQ3NyAxMCAxMHMtNC40NzcgMTAtMTAgMTAiLz48L3N2Zz4%3D&logoColor=white
+[email-badge]: https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTMgM2gxOGExIDEgMCAwIDEgMSAxdjE2YTEgMSAwIDAgMS0xIDFIM2ExIDEgMCAwIDEtMS0xVjRhMSAxIDAgMCAxIDEtMW05LjA2IDguNjgzTDUuNjQ4IDYuMjM4TDQuMzUzIDcuNzYybDcuNzIgNi41NTVsNy41ODEtNi41NmwtMS4zMDgtMS41MTN6Ii8%2BPC9zdmc%2B&logoColor=white
+[flutter-badge]: https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white
+[dart-badge]: https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white
+[firebase-badge]: https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white
+[gcloud-badge]: https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white
