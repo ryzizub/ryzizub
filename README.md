@@ -15,13 +15,15 @@
 
 ## About
 
-With over eight years in mobile app development, I've worked with both startups and established companies, delivering high-quality, seamless user experiences.
+I'm a mobile developer who likes shipping. Ten years in mobile, five-plus of them in Flutter.
 
-- **Technical Delivery Lead at [Very Good Ventures](https://verygood.ventures/)**, one of the most established companies in the Flutter ecosystem, building apps for clients like Google, Hamilton and Toyota
-- **Google Developer Expert** for Firebase & Flutter
-- **Google Developer Group organizer**, sharing knowledge through mentoring, talks and workshops
+- **Technical Delivery Lead at [Very Good Ventures](https://verygood.ventures/)**, leading delivery of Flutter apps for clients such as Dutch Bros and Divine, and still writing code every day
+- On VGV's platform team, where my main open-source projects are **Wingspan**, the **Very Good AI Flutter Plugin** and the **VGV AI CLI**
+- **Google Developer Expert** for Firebase (since 2019) and Flutter (since 2025)
+- Part of the **DevFest.cz** team with GUG.cz, which I first joined in 2017; built the 2026 conference app and website
+- 50+ talks, including FlutterCon USA, FlutterCon Europe and mDevCamp
 - Previously **CTO at Openvibe** and **senior lecturer at Czechitas**
-- Beyond code: craft beer (do I have my own beer fridge? Yes.), gaming and all things geeky
+- In my free time I build my own apps and odd experiments, because hacking on things is fun. I also own a beer fridge.
 
 ## Stack
 
